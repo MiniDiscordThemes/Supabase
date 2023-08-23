@@ -1,5 +1,5 @@
 {
-  "name": "replugged-supabase-theme",
+  "name": "replugged-supabase-amoled-theme",
   "version": "2.0.0",
   "description": "Replugged theme based on supabase",
   "engines": {
@@ -14,7 +14,7 @@
     "lint:fix": "prettier ./src --write"
   },
   "keywords": [],
-  "author": "fooooooooooooooo",
+  "author": "censoredosu",
   "license": "MIT",
   "devDependencies": {
     "@parcel/config-default": "^2.8.3",
