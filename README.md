@@ -8,9 +8,9 @@
 
 ## Screenshot
 
-![Server Preview](./server.png)
+![Server Preview](./images/server.png)
 
-![Settings Preview](./settings.png)
+![Settings Preview](./images/settings.png)
 
 ## Build
 
