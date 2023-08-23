@@ -8,9 +8,9 @@
 
 ## Screenshot
 
-![Server Preview](/home/gabi/Pictures/Screenshot_20230824_011559.png)
+![Server Preview]()
 
-![Settings Preview](/home/gabi/Pictures/Screenshot_20230824_011623.png)
+![Settings Preview]()
 
 ## Build
 
