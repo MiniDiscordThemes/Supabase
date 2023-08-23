@@ -1,16 +1,16 @@
 .theme-dark {
-  --colors-gray1: #161616;
-  --colors-gray2: #1c1c1c;
-  --colors-gray3: #232323;
-  --colors-gray4: #282828;
-  --colors-gray5: #2e2e2e;
-  --colors-gray6: #343434;
-  --colors-gray7: #3d3d3d;
-  --colors-gray8: #505050;
-  --colors-gray9: #707070;
-  --colors-gray10: #7e7e7e;
-  --colors-gray11: #a0a0a0;
-  --colors-gray12: #ededed;
+  --colors-gray1: #000000;
+  --colors-gray2: #000000;
+  --colors-gray3: #000000;
+  --colors-gray4: #000000;
+  --colors-gray5: #000000;
+  --colors-gray6: #3f3f3f;
+  --colors-gray7: #535353;
+  --colors-gray8: #000000;
+  --colors-gray9: #000000;
+  --colors-gray10: #000000;
+  --colors-gray11: #b9b8b8;
+  --colors-gray12: #000000;
 
   --primary-600: var(--colors-gray1);
   --primary-630: var(--colors-gray2);
@@ -46,9 +46,9 @@
 
   /* custom colors */
 
-  --dark-bg-bg-color: #7d7d7d;
-  --dark-bg-text-color: #8d8d8d;
-  --dark-bg-bg-color-hover: #a1a1aa;
+  --dark-bg-bg-color: #817f7f;
+  --dark-bg-text-color: #666363;
+  --dark-bg-bg-color-hover: #5d5d5e;
 
   --green-thing: rgb(59, 165, 92);
 }
