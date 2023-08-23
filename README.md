@@ -4,13 +4,13 @@
 
 ### **[Replugged](https://replugged.dev/)**
 
-[![Install in Replugged](https://img.shields.io/badge/-Install%20in%20Replugged-blue?style=for-the-badge&logo=none)](https://replugged.dev/install?identifier=dev.fooooooooooooooo.supabase)
+[![Install in Replugged](https://img.shields.io/badge/-Install%20in%20Replugged-blue?style=for-the-badge&logo=none)](https://replugged.dev/install?identifier=dev.censoredosu.supabase)
 
 ## Screenshot
 
-![Server Preview](./images/server.png)
+![Server Preview](https://imgur.com/a/qYRlj6A)
 
-![Settings Preview](./images/settings.png)
+![Settings Preview](https://imgur.com/a/dWwZQ9T)
 
 ## Build
 
@@ -29,7 +29,7 @@
 
 <!--
 ```sh
-git tag v1.1.0
+git tag v2.0.0
 git push --tags
 ```
 -->
