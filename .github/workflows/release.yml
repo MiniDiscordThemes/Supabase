@@ -28,7 +28,7 @@ jobs:
       - name: Install Node.js dependencies
         run: pnpm install
 
-      - name: Building TypeScript and bundle into asar
+      - name: Build TypeScript and bundle into asar
         run: pnpm run bundle
 
       - uses: ncipollo/release-action@v1
