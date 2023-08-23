@@ -8,9 +8,9 @@
 
 ## Screenshot
 
-![Server Preview](https://imgur.com/a/qYRlj6A)
+![Server Preview](/home/gabi/Pictures/Screenshot_20230824_011559.png)
 
-![Settings Preview](https://imgur.com/a/dWwZQ9T)
+![Settings Preview](/home/gabi/Pictures/Screenshot_20230824_011623.png)
 
 ## Build
 
