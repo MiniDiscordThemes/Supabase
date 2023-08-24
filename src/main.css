@@ -4,12 +4,12 @@
   --colors-gray3: #000000;
   --colors-gray4: #000000;
   --colors-gray5: #000000;
-  --colors-gray6: #3f3f3f;
-  --colors-gray7: #535353;
+  --colors-gray6: #000000;
+  --colors-gray7: #000000;
   --colors-gray8: #000000;
   --colors-gray9: #000000;
   --colors-gray10: #000000;
-  --colors-gray11: #b9b8b8;
+  --colors-gray11: #000000;
   --colors-gray12: #000000;
 
   --primary-600: var(--colors-gray1);
