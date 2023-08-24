@@ -23,7 +23,7 @@
     "@parcel/transformer-sass": "^2.9.3",
     "@types/node": "^20.4.5",
     "prettier": "^3.0.0",
-    "replugged": "^4.6.1",
+    "replugged": "^4.6.0",
     "salt-bd-scss": "^1.1.0"
   }
 }
