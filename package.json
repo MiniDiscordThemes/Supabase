@@ -12,8 +12,7 @@
     "bundle": "replugged bundle theme",
     "lint": "prettier ./src --check",
     "lint:fix": "prettier ./src --write"
-    "release": "replugged release"
-    '
+    "release": "replugged release",
   },
   "keywords": [],
   "author": "censoredosu",
