@@ -29,5 +29,5 @@ jobs:
       - name: Install Node.js dependencies
         run: pnpm install
 
-      - name: Run linters
+      - name: Running linters
         run: pnpm run lint
