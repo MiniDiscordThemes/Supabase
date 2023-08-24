@@ -11,8 +11,8 @@
     "watch": "replugged build theme --watch",
     "bundle": "replugged bundle theme",
     "lint": "prettier ./src --check",
-    "lint:fix": "prettier ./src --write"
-    "release": "replugged release",
+    "lint:fix": "prettier ./src --write",
+    "release": "replugged release"
   },
   "keywords": [],
   "author": "censoredosu",
