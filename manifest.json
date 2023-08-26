@@ -15,7 +15,7 @@
   ],
   "updater": {
     "type": "store",
-    "id": "dev.censoredosu.supabase"
+    "id": "dev.censoredosu.supabase-amoled"
   },
   "license": "MIT",
   "type": "replugged-theme",
