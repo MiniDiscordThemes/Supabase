@@ -55,15 +55,15 @@
 
 /* patches for things that dont use variables for some unknown reason */
 
-.theme-dark .container-1QtPKm {
+.theme-dark .container__2ed72 {
   background-color: var(--background-modifier-selected) !important;
 }
 
-.theme-dark .container-1QtPKm.disabled-3_3z1m {
+.theme-dark .container__2ed72.disabled_b94a52 {
   background-color: var(--input-background) !important;
 }
 
-.theme-dark .container-1QtPKm.checked-16gMAN {
+.theme-dark .container__2ed72.checked__36fdc {
   background-color: var(--green-thing) !important;
 }
 
@@ -73,42 +73,42 @@
 
 /* message bar colors */
 
-.theme-dark .channelTextArea-1deLlK {
+.theme-dark .channelTextArea_c2094b {
   --interactive-normal: var(--dark-bg-bg-color);
   --interactive-hover: var(--dark-bg-bg-color-hover);
   --interactive-active: var(--dark-bg-bg-color-hover);
 }
 
-.theme-dark .emojiButtonNormal-35P0_i > div {
+.theme-dark .emojiButtonNormal__5f64f > div {
   filter: brightness(0.6);
 }
 
-.theme-dark .autocomplete-3NRXG8 {
+.theme-dark .autocomplete__743a5 {
   --interactive-normal: var(--default-text-color);
   --interactive-active: var(--default-text-color);
 }
 
 /* Channels & Roles */
-.theme-dark .container-2IKOsH,
-.theme-dark .container-1um7CU,
-.theme-dark .header-3xB4vB,
-.theme-dark .scrollerContainer-y16Rs9,
-.theme-dark .emptyPage-2TGR7j {
+.theme-dark .container__03ec9,
+.theme-dark .container__6b2e5,
+.theme-dark .header__71942,
+.theme-dark .scrollerContainer_dda72c,
+.theme-dark .emptyPage_feb902 {
   background-color: var(--background-primary);
 }
 
-.theme-dark .chat-9g_3Xj .profileCard-2gVmvm {
+.theme-dark .chat__52833 .profileCard__1d74b {
   background-color: var(--background-secondary);
 }
 
 /* WHY is there a random :after element with a linear gradient ?? */
-.theme-dark .innerHeader-1cC3Fp:after {
+.theme-dark .innerHeader_ccbd77:after {
   background: transparent;
 }
 
 /* DM voice call container buttons */
 
-.theme-dark .callContainer-HtHELf .colorable-3rVGna.primaryDark-2UJt1G {
+.theme-dark .callContainer__1477d .colorable__4f530.primaryDark_ec74a7 {
   background-color: var(--background-tertiary);
 }
 
