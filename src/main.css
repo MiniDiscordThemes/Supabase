@@ -69,17 +69,17 @@
 /* patches for things that dont use variables for some unknown reason */
 
 /* checkbox */
-.theme-dark .container__871ba {
+.theme-dark .container__2ed72 {
   background-color: var(--background-modifier-selected) !important;
 }
 
 /* checkbox disabled */
-.theme-dark .container__871ba.disabled_eac369 {
+.theme-dark .container__2ed72.disabled_b94a52 {
   background-color: var(--background-modifier-selected) !important;
 }
 
 /* checkbox checked */
-.theme-dark .container__871ba.checked__6bdb0 {
+.theme-dark .container__2ed72.checked__36fdc {
   background-color: var(--green-thing) !important;
 }
 
@@ -89,13 +89,13 @@
 
 /* message bar colors */
 
-.theme-dark .channelTextArea__2e60f {
+.theme-dark .channelTextArea_c2094b {
   --interactive-normal: var(--darker-bg-bg-color);
   --interactive-hover: var(--dark-bg-text-color);
   --interactive-active: var(--dark-bg-text-color);
 }
 
-.theme-dark .autocomplete_df266d {
+.theme-dark .autocomplete__743a5 {
   --interactive-normal: var(--colors-gray11);
   --interactive-active: var(--colors-gray12);
 }
@@ -110,7 +110,7 @@
 
 /* DM voice call container buttons */
 
-.theme-dark .callContainer-HtHELf .colorable-3rVGna.primaryDark-2UJt1G {
+.theme-dark .callContainer__1477d .colorable__4f530.primaryDark_ec74a7 {
   background-color: var(--background-tertiary);
 }
 
@@ -134,6 +134,6 @@
 
 /* report menu hover color fix */
 
-.theme-dark div[role='dialog'] .childButton__832dc:hover {
+.theme-dark div[role='dialog'] .childButton__58a87:hover {
   background-color: var(--background-modifier-selected) !important;
 }
