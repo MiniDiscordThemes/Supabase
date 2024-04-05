@@ -10,8 +10,8 @@
   },
   "source": "https://github.com/CensoredOSU/replugged-supabase-amoled-theme",
   "image": [
-    "https://cdn.discordapp.com/attachments/756481920103088180/1144991134653890591/server.png",
-    "https://cdn.discordapp.com/attachments/756481920103088180/1144991147324870656/settings.png"
+    "https://github.com/CensoredOSU/replugged-supabase-amoled-theme/blob/main/images/server.png?raw=true",
+    "https://github.com/CensoredOSU/replugged-supabase-amoled-theme/blob/main/images/settings.png?raw=true"
   ],
   "updater": {
     "type": "store",
